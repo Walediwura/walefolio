@@ -25,7 +25,7 @@ function About() {
             quality, system reliability, and seamless user experience.
           </p>
 
-          <ul className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl overflow-x-hidden">
+          <ul className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl">
             {infoList?.map(({ icon, iconDark, title, description }, index) => (
               <li
                 className="border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-[#fcf4ff] hover:-translate-y-1 duration-500 hover:shadow-[4px_4px_0px_black]"
