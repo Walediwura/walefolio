@@ -1,4 +1,3 @@
-import user_image from "./user-image.png";
 import user_image_sub from "./user-image.jpg";
 import code_icon from "./code-icon.png";
 import code_icon_dark from "./code-icon-dark.png";
@@ -39,7 +38,6 @@ import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 
 export const assets = {
   user_image_sub,
-  user_image,
   code_icon,
   code_icon_dark,
   edu_icon,

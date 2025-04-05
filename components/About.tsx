@@ -12,7 +12,7 @@ function About() {
           <Image
             src={assets.user_image_sub}
             alt="user"
-            className="w-full rounded-3xl"
+            className="w-full rounded-3xl shadow-[4px_4px_0px_black]  "
           />
         </section>
 
